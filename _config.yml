@@ -28,7 +28,7 @@ twitter_username: dobau
 github_username:  dobau
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
